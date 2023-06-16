@@ -1,7 +1,7 @@
 {
-  "name": "busu-city-ui",
-  "short_name": "busu-city-ui",
-  "theme_color": "#1976d2",
+  "name": "BusuCity-App",
+  "short_name": "BusuCity-App",
+  "theme_color": "#00c387",
   "background_color": "#fafafa",
   "display": "standalone",
   "scope": "./",
