@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1686924201331,
+  "timestamp": 1686950252061,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -62,6 +62,7 @@
         "/7723.3f2b4398030d9c90.js",
         "/7723.4b35bc77ecb08339.js",
         "/7723.58df4a131bb89172.js",
+        "/7723.641878b9cbb27e1d.js",
         "/7723.9954c3575b137ec8.js",
         "/7723.a7691135363e18a6.js",
         "/7723.db921d59fe48fcc0.js",
@@ -89,6 +90,7 @@
         "/runtime.39dbef592a5e4fc2.js",
         "/runtime.5abd9f47e0ef312a.js",
         "/runtime.5fe0fce8b2229ead.js",
+        "/runtime.895944625e78b637.js",
         "/runtime.b17168c00d19fbea.js",
         "/runtime.b39a0d031ee4aae2.js",
         "/runtime.e576841bcf981731.js",
@@ -101,7 +103,7 @@
     },
     {
       "name": "assets",
-      "installMode": "lazy",
+      "installMode": "prefetch",
       "updateMode": "prefetch",
       "cacheQueryOptions": {
         "ignoreVary": true
@@ -213,6 +215,7 @@
     "/7723.3f2b4398030d9c90.js": "8796b36347fc108adedbf4a817c65ef36dae2dce",
     "/7723.4b35bc77ecb08339.js": "7fe2b09dee9727ddc9325b60f0d5951c6f9bbc35",
     "/7723.58df4a131bb89172.js": "fef99cc4336493841902b38e6e5bf7c6aa8fda3b",
+    "/7723.641878b9cbb27e1d.js": "b2dd1866a6f70067b933f45e7b627ce1a0241b79",
     "/7723.9954c3575b137ec8.js": "c314c940665349f7fcfbfc9899a4759fd44abb11",
     "/7723.a7691135363e18a6.js": "c30b979d1b16fc28141fe2ee234e5aa3bff466da",
     "/7723.db921d59fe48fcc0.js": "b1fde93c42553ceddbb9d99bb2dd3341d172b836",
@@ -278,7 +281,7 @@
     "/color.dae87a04d07ca92b.png": "ff4c4bcb2207891b292f544edb4da9d2df5d45cf",
     "/common.aa1db2f5a1f2b9bb.js": "7d2472b6317928ac9ffbd6d70cfc534de83be392",
     "/hue.8b1818380241e6ac.png": "f81ae627637a684614aa726e206c73ce099a01fd",
-    "/index.html": "86073dccaa1d5c17e407582a9c73ff77cab445af",
+    "/index.html": "803e97efe459ea6d84485bf7ce641fd8aa16fd20",
     "/main.90a5a10ff776830e.js": "58f05e5f4ac13fab81f505727d8a6b2a44aecdc4",
     "/main.a39ba59ebb0e51c0.js": "37cb82feb7665e3d2dec2059cb50ddae7bc2a358",
     "/manifest.webmanifest": "1a660aca449a498429d48cbc787d0bff4686ac16",
@@ -289,6 +292,7 @@
     "/runtime.39dbef592a5e4fc2.js": "fbc4b51342f59aff4c22c1ebc78fcac6b1426aaa",
     "/runtime.5abd9f47e0ef312a.js": "2b33211f1254c248aee55753f77b5ea703944b5a",
     "/runtime.5fe0fce8b2229ead.js": "52bfd991de5651ac144c076e9444f50deab94b3f",
+    "/runtime.895944625e78b637.js": "b82bb264b867a76780a986361baba291657daa64",
     "/runtime.b17168c00d19fbea.js": "d310d26c2e4c3465a5a18bc4be2505914555385a",
     "/runtime.b39a0d031ee4aae2.js": "53769279b81d2869df9eb71e3dfa9b422ec19a7a",
     "/runtime.e576841bcf981731.js": "f51bd7228be6de69ce69f371174130f0c052cad0",
