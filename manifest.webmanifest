@@ -1,6 +1,6 @@
 {
-  "name": "BusuCity-App",
-  "short_name": "BusuCity-App",
+  "name": "BusuCity",
+  "short_name": "BusuCity",
   "theme_color": "#00c387",
   "background_color": "#fafafa",
   "display": "standalone",
