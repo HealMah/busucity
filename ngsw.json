@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1686875000485,
+  "timestamp": 1686876235658,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -70,13 +70,17 @@
         "/9914.3866bad1e65d3905.js",
         "/common.aa1db2f5a1f2b9bb.js",
         "/index.html",
+        "/main.90a5a10ff776830e.js",
         "/main.a39ba59ebb0e51c0.js",
         "/manifest.webmanifest",
+        "/ngsw-worker.js",
         "/polyfills-core-js.7d80c50b1fd5c750.js",
         "/polyfills-dom.d7e1e749d95f083e.js",
         "/polyfills.ad06f903621befdc.js",
         "/runtime.e576841bcf981731.js",
-        "/styles.6b6d09abdf04cccb.css"
+        "/safety-worker.js",
+        "/styles.6b6d09abdf04cccb.css",
+        "/worker-basic.min.js"
       ],
       "patterns": []
     },
@@ -244,14 +248,18 @@
     "/color.dae87a04d07ca92b.png": "ff4c4bcb2207891b292f544edb4da9d2df5d45cf",
     "/common.aa1db2f5a1f2b9bb.js": "7d2472b6317928ac9ffbd6d70cfc534de83be392",
     "/hue.8b1818380241e6ac.png": "f81ae627637a684614aa726e206c73ce099a01fd",
-    "/index.html": "d63dfb0d810dab367b6b2c84252c1e943c2e68a9",
+    "/index.html": "0e2cf78fe4a897304ef7652553135fc0a964b5c0",
+    "/main.90a5a10ff776830e.js": "58f05e5f4ac13fab81f505727d8a6b2a44aecdc4",
     "/main.a39ba59ebb0e51c0.js": "37cb82feb7665e3d2dec2059cb50ddae7bc2a358",
     "/manifest.webmanifest": "54f86c3faded8c7f04c58aca3452b933744facaa",
+    "/ngsw-worker.js": "e44cded1cabebbdddc7b67d3f8df8051664f909a",
     "/polyfills-core-js.7d80c50b1fd5c750.js": "adc5b2ff7ad137e8e855998f57aef33bb576e340",
     "/polyfills-dom.d7e1e749d95f083e.js": "eb32f80402e83734d794001c1627d610a9c5f139",
     "/polyfills.ad06f903621befdc.js": "843528efa5361b7f5fb48f1c0582d54eb2986e94",
     "/runtime.e576841bcf981731.js": "f51bd7228be6de69ce69f371174130f0c052cad0",
-    "/styles.6b6d09abdf04cccb.css": "7a3340b6d6af9e11590c7d25b58114676430ce9d"
+    "/safety-worker.js": "70914dc203fa1f881e56f2b794d7a4f9c48ee745",
+    "/styles.6b6d09abdf04cccb.css": "7a3340b6d6af9e11590c7d25b58114676430ce9d",
+    "/worker-basic.min.js": "70914dc203fa1f881e56f2b794d7a4f9c48ee745"
   },
   "navigationUrls": [
     {
