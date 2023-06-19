@@ -17,6 +17,8 @@
 
     <link rel="manifest" href="manifest.webmanifest">
     <meta name="theme-color" content="#00c387">
+    <!-- default-src 'self'; frame-src 'self'; script-src 'self' 'unsafe-eval' 'unsafe-inline';style-src 'self' 'unsafe-inline' 'unsafe-eval';font-src 'self';img-src 'self' data:;connect-src *; -->
+    <meta http-equiv="Content-Security-Policy" content="default-src 'self'; worker-src 'self' 'unsafe-eval' 'unsafe-inline'; frame-src 'self'; script-src 'self' 'unsafe-eval' 'unsafe-inline';style-src 'self' 'unsafe-inline' 'unsafe-eval';font-src 'self';img-src 'self' data:;connect-src *;">
     <!-- <meta http-equiv="Content-Security-Policy"
       content="trusted-types angular; require-trusted-types-for 'script';"> -->
     <!-- <meta http-equiv="Content-Security-Policy"
